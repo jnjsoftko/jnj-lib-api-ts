@@ -1,2 +1,5 @@
-# jnj-lib-api-ts
-JnJ Utility Library For API Support in Typescript
+# npm-project-name
+
+## Description
+
+## Install
